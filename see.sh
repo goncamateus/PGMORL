@@ -1,2 +1,0 @@
-#!/bin/bash
-python scripts/plot/mujoco_play.py --env MO-HalfCheetah-v2 --model ./results/HalfCheetah-v2/pgmorl/0/final/EP_policy_353.pt --env-params ./results/HalfCheetah-v2/pgmorl/0/final/EP_env_params_353.pkl --record
